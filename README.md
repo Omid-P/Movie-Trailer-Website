@@ -3,5 +3,6 @@ Movie Trailer Website project where a html file is created of a list movies with
 
 ## Running
 Download branch or clone https://github.com/Omid-P/Movie-Trailer-Website
-run python script entertainment_centre.py
+
+Run python script entertainment_centre.py
 
